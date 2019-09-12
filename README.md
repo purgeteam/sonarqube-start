@@ -6,12 +6,12 @@
 
 ### download docker-compose.yml
 ```
-$ git clone https://github.com
-$ cd docker-sonarqube
+$ git clone https://github.com/purgeteam/sonarqube-start
+$ cd docker-start
 ```
 ### how to use
 ```
-$ docker-compose up -d 
+$ docker-compose up -d sonar-docker-start.yml
 ```
 visit：localhost:9000
 > username/password：admin/admin
