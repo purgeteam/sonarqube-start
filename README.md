@@ -33,7 +33,7 @@ visit：localhost:9000
         </plugins>
     </build>
 
-    <!-- 代码质量检测 -->SonarQube
+    <!-- SonarQube代码质量检测 -->
     <profiles>
         <profile>
             <id>sonar</id>
