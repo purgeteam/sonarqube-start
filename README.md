@@ -41,8 +41,7 @@ visit：localhost:9000
                 <activeByDefault>true</activeByDefault>
             </activation>
             <properties>
-<!--                <sonar.host.url>http://127.0.0.1:9000/</sonar.host.url>-->
-                <sonar.host.url>http://10.1.1.97:9000/</sonar.host.url>
+                <sonar.host.url>http://127.0.0.1:9000/</sonar.host.url>
             </properties>
         </profile>
     </profiles>
